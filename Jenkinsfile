@@ -1,4 +1,4 @@
-﻿pipeline {
+pipeline {
     // Bu pipeline'ın nerede çalışacağını belirtir. 
     // 'any', herhangi bir uygun Jenkins agent'ında çalışabilir demektir.
     agent any
