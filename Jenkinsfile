@@ -1,5 +1,8 @@
 pipeline {
-    agent any
+    // İşi, 'windows' etiketli agent'ımızda çalıştır diyoruz.
+    agent {
+        label 'windows'
+    }
 
     stages {
         stage('Checkout Code') {
@@ -10,22 +13,22 @@ pipeline {
 
         stage('Set up Minikube Docker environment') {
             steps {
-                // DEĞİŞİKLİK: 'powershell' yerine 'sh' kullanıyoruz ve komut Linux için uyarlandı.
-                sh 'eval $(minikube -p minikube docker-env)'
+                // DEĞİŞİKLİK: Windows'ta çalıştığımız için tekrar 'powershell' kullanıyoruz.
+                powershell 'minikube -p minikube docker-env --shell powershell | Invoke-Expression'
             }
         }
 
         stage('Build Docker image for productcatalogservice') {
             steps {
-                // DEĞİŞİKLİK: 'powershell' yerine 'sh' kullanıyoruz.
-                sh 'docker build -t productcatalogservice:latest ./src/productcatalogservice'
+                // DEĞİŞİKLİK: 'powershell' kullanıyoruz.
+                powershell 'docker build -t productcatalogservice:latest ./src/productcatalogservice'
             }
         }
 
         stage('Deploy to Minikube') {
             steps {
-                // DEĞİŞİKLİK: 'powershell' yerine 'sh' kullanıyoruz.
-                sh 'kubectl set image deployment/productcatalogservice server=productcatalogservice:latest'
+                // DEĞİŞİKLİK: 'powershell' kullanıyoruz.
+                powershell 'kubectl set image deployment/productcatalogservice server=productcatalogservice:latest'
             }
         }
     }
