@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "FatihRehaDisci",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus5.actions.githubusercontent.com/dPW3scQmAHGhqq2nJ5EQoFPRWik9NWz1UwVhNbSFUcw1GfI41T/",
+  "gitHubUrl": "https://github.com/fatihreha/online-boutique-thesis",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
