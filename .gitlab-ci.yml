@@ -1,0 +1,28 @@
+# Define the stages of our pipeline
+stages:
+  - build
+  - deploy
+
+# This is the "Build" job
+build_image:
+  stage: build
+  # Tell GitLab to only use runners with these tags
+  tags:
+    - windows
+    - docker
+  script:
+    # These are the PowerShell commands to run
+    - echo "Setting up Minikube Docker environment..."
+    - minikube -p minikube docker-env --shell powershell | Invoke-Expression
+    - echo "Building Docker image for productcatalogservice..."
+    - docker build -t productcatalogservice:latest ./src/productcatalogservice
+
+# This is the "Deploy" job
+deploy_image:
+  stage: deploy
+  tags:
+    - windows
+    - docker
+  script:
+    - echo "Deploying to Minikube..."
+    - kubectl set image deployment/productcatalogservice server=productcatalogservice:latest
