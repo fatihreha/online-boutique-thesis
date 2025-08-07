@@ -1,3 +1,9 @@
+# YENİ EKLENEN BÖLÜM: Pipeline'ın ne zaman çalışacağını belirten kural.
+workflow:
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
+
+# --- ESKİ KODUNUZ AYNI ŞEKİLDE DEVAM EDİYOR ---
 stages:
   - build
   - deploy
