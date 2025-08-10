@@ -16,15 +16,25 @@ pipeline {
             }
         }
 
-        stage('Build Docker image for shippingservice') {
+        stage('Build Docker images') {
             steps {
-                powershell 'docker build -t shippingservice:latest ./src/shippingservice'
+                powershell '''
+                    echo "Building productcatalogservice..."
+                    docker build -t productcatalogservice:latest ./src/productcatalogservice
+                    echo "Building frontend..."
+                    docker build -t frontend:latest ./src/frontend
+                '''
             }
         }
         
         stage('Deploy to Minikube') {
             steps {
-                powershell 'kubectl set image deployment/shippingservice server=shippingservice:latest'
+                powershell '''
+                    echo "Deploying productcatalogservice..."
+                    kubectl set image deployment/productcatalogservice server=productcatalogservice:latest
+                    echo "Deploying frontend..."
+                    kubectl set image deployment/frontend server=frontend:latest
+                '''
             }
         }
     }

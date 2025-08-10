@@ -17,12 +17,18 @@ jobs:
         run: |
           minikube -p minikube docker-env --shell powershell | Invoke-Expression
 
-      - name: Build Docker image for shippingservice
+      - name: Build Docker images
         shell: powershell
         run: |
-          docker build -t shippingservice:latest ./src/shippingservice
+          echo "Building productcatalogservice..."
+          docker build -t productcatalogservice:latest ./src/productcatalogservice
+          echo "Building frontend..."
+          docker build -t frontend:latest ./src/frontend
           
       - name: Deploy to Minikube
         shell: powershell
         run: |
-          kubectl set image deployment/shippingservice server=shippingservice:latest
+          echo "Deploying productcatalogservice..."
+          kubectl set image deployment/productcatalogservice server=productcatalogservice:latest
+          echo "Deploying frontend..."
+          kubectl set image deployment/frontend server=frontend:latest
