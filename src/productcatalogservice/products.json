@@ -14,8 +14,8 @@
         },
         {
             "id": "66VCHSJNUP",
-            "name": "Tank Top",
-            "description": "Perfectly cropped cotton tank, with a scooped neckline.",
+            "name": "V-Neck Tank Top",
+            "description": "A soft, cotton V-neck tank top.",
             "picture": "/static/img/products/tank-top.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
