@@ -55,11 +55,14 @@
               {{if (listContains .Item.Categories "summer-sale")}}
                 <span class="badge badge-danger">Summer Sale!</span>
               {{end}}
-              {{if (listContains .Item.Categories "limited-stock")}}
-                <span class="badge badge-warning">Limited Stock!</span>
+              {{if (listContains .Item.Categories "exclusive")}}
+                <span class="badge badge-dark">Exclusive!</span>
               {{end}}
               {{if (listContains .Item.Categories "new-arrival")}}
                 <span class="badge badge-info">New Arrival!</span>
+              {{end}}
+              {{if (listContains .Item.Categories "limited-stock")}}
+                <span class="badge badge-warning">Limited Stock!</span>
               {{end}}
             </div>
           </div>
