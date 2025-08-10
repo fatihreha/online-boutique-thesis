@@ -53,7 +53,7 @@ func init() {
 }
 
 func main() {
-	log.Printf("GITLAB TEST: shipping service called with context")
+	log.Printf("GITLABB TEST: shipping service called with context")
 
 	if os.Getenv("DISABLE_TRACING") == "" {
 		log.Info("Tracing enabled, but temporarily unavailable")
