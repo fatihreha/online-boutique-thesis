@@ -2619,3 +2619,1023 @@
 [2025-08-10 17:35:22Z INFO JobServerQueue] Got a step log file to send to results service.
 [2025-08-10 17:35:22Z INFO JobServerQueue] Starting upload of step log file to results service ResultsLog, C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag\blocks\e1bdef5f-2345-4ba7-81b3-c252c2b24893_1e40b069-43c2-4247-be16-50223325c90c.1
 [2025-08-10 17:35:22Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2025-08-10 17:35:22Z INFO AddMaskCommandExtension] Add new secret mask with length of 76
+[2025-08-10 17:35:23Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:23Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:23Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:24Z INFO JobServerQueue] Tried to upload 1 file(s) to results, success rate: 1/1.
+[2025-08-10 17:35:25Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:26Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:26Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:26Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:26Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:27Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:29Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:30Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:35:32Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:32Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:32Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:35:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:42Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:35:52Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:52Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:52Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:02Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:03Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:36:03Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:36:04Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper] Finished process 45460 with exit code 0, and elapsed time 00:00:41.9135710.
+[2025-08-10 17:36:04Z INFO CreateStepSummaryCommand] Step Summary file (C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\_runner_file_commands\step_summary_1e2986a4-5dd7-42f9-a6af-ff844a7346f3) is empty; skipping attachment upload
+[2025-08-10 17:36:04Z INFO StepsRunner] Step result: 
+[2025-08-10 17:36:04Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "actions/checkout",
+  "ref": "v4",
+  "type": "node20",
+  "stage": "Main",
+  "stepId": "87f9a152-4224-4899-bc9a-2cf81c743110",
+  "stepContextName": "__actions_checkout",
+  "hasPreStep": false,
+  "hasPostStep": true,
+  "result": "succeeded",
+  "errorMessages": [
+    "no submodule mapping found in .gitmodules for path 'actions-runner/_work/online-boutique-thesis/online-boutique-thesis'",
+    "Unable to clean or reset the repository. The repository will be recreated instead."
+  ],
+  "executionTimeInSeconds": 43,
+  "startTime": "2025-08-10T17:35:22.0664771Z",
+  "finishTime": "2025-08-10T17:36:04.0803981Z"
+}.
+[2025-08-10 17:36:04Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2025-08-10 17:36:04Z INFO StepsRunner] Current state: job state = ''
+[2025-08-10 17:36:04Z INFO StepsRunner] Processing step: DisplayName='Set up Minikube Docker environment'
+[2025-08-10 17:36:04Z INFO StepsRunner] Evaluating: success()
+[2025-08-10 17:36:04Z INFO StepsRunner] Result: true
+[2025-08-10 17:36:04Z INFO StepsRunner] Starting the step.
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:04Z INFO StepsRunner] Which2: 'chcp'
+[2025-08-10 17:36:04Z INFO StepsRunner] Location: 'C:\Windows\system32\chcp.COM'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper] Starting process:
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   File name: 'C:\Windows\system32\chcp.COM'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Arguments: '65001'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Persist current code page: 'True'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper] Process started with process id 46240, waiting for process exit.
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper] Finished process 46240 with exit code 0, and elapsed time 00:00:00.0222729.
+[2025-08-10 17:36:04Z INFO StepsRunner] Successfully returned to code page 65001 (UTF8)
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:36:04Z INFO ExecutionContext] Write event payload to C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\_github_workflow\event.json
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:36:04Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IFileCommandExtension'
+[2025-08-10 17:36:04Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command set-env
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command set-output
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command save-state
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command add-path
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command add-mask
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command add-matcher
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command remove-matcher
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command warning
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command error
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command notice
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command debug
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command group
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command endgroup
+[2025-08-10 17:36:04Z INFO ActionCommandManager] Register action command extension for command echo
+[2025-08-10 17:36:04Z INFO ScriptHandler] Which2: 'pwsh'
+[2025-08-10 17:36:04Z INFO ScriptHandler] pwsh: command not found. Make sure 'pwsh' is installed and its location included in the 'Path' environment variable.
+[2025-08-10 17:36:04Z INFO ScriptHandler] Defaulting to powershell
+[2025-08-10 17:36:04Z INFO ScriptHandler] Which2: 'powershell'
+[2025-08-10 17:36:04Z INFO ScriptHandler] Location: 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.EXE'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:04Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:36:04Z INFO ScriptHandler] Which2: 'pwsh'
+[2025-08-10 17:36:04Z INFO ScriptHandler] pwsh: command not found. Make sure 'pwsh' is installed and its location included in the 'Path' environment variable.
+[2025-08-10 17:36:04Z INFO ScriptHandler] Defaulting to powershell
+[2025-08-10 17:36:04Z INFO ScriptHandler] Which2: 'powershell'
+[2025-08-10 17:36:04Z INFO ScriptHandler] Location: 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.EXE'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper] Starting process:
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   File name: 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.EXE'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Arguments: '-command ". 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\f126eee1-f084-4ddf-b4ec-03d8e8b898e6.ps1'"'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\online-boutique-thesis\online-boutique-thesis'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Persist current code page: 'True'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2025-08-10 17:36:04Z INFO ProcessInvokerWrapper] Process started with process id 47600, waiting for process exit.
+[2025-08-10 17:36:04Z INFO JobServerQueue] Try to append 1 batches web console lines for record '87f9a152-4224-4899-bc9a-2cf81c743110', success rate: 1/1.
+[2025-08-10 17:36:04Z INFO JobServerQueue] Try to append 1 batches web console lines for record '984492a3-918f-4162-bb46-e283cfbf83c0', success rate: 1/1.
+[2025-08-10 17:36:04Z INFO JobServerQueue] Got a step log file to send to results service.
+[2025-08-10 17:36:04Z INFO JobServerQueue] Starting upload of step log file to results service ResultsLog, C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag\blocks\e1bdef5f-2345-4ba7-81b3-c252c2b24893_87f9a152-4224-4899-bc9a-2cf81c743110.1
+[2025-08-10 17:36:05Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2025-08-10 17:36:05Z INFO JobServerQueue] Tried to upload 1 file(s) to results, success rate: 1/1.
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper] Finished process 47600 with exit code 0, and elapsed time 00:00:04.0942770.
+[2025-08-10 17:36:08Z INFO CreateStepSummaryCommand] Step Summary file (C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\_runner_file_commands\step_summary_4d151348-a34d-4341-ab90-8c995c5ffb74) is empty; skipping attachment upload
+[2025-08-10 17:36:08Z INFO StepsRunner] Step result: 
+[2025-08-10 17:36:08Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "powershell",
+  "type": "run",
+  "stage": "Main",
+  "stepId": "984492a3-918f-4162-bb46-e283cfbf83c0",
+  "stepContextName": "__run",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 5,
+  "startTime": "2025-08-10T17:36:04.0828662Z",
+  "finishTime": "2025-08-10T17:36:08.2497743Z"
+}.
+[2025-08-10 17:36:08Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2025-08-10 17:36:08Z INFO StepsRunner] Current state: job state = ''
+[2025-08-10 17:36:08Z INFO StepsRunner] Processing step: DisplayName='Build Docker image for productcatalogservice'
+[2025-08-10 17:36:08Z INFO StepsRunner] Evaluating: success()
+[2025-08-10 17:36:08Z INFO StepsRunner] Result: true
+[2025-08-10 17:36:08Z INFO StepsRunner] Starting the step.
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:08Z INFO StepsRunner] Which2: 'chcp'
+[2025-08-10 17:36:08Z INFO StepsRunner] Location: 'C:\Windows\system32\chcp.COM'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper] Starting process:
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   File name: 'C:\Windows\system32\chcp.COM'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Arguments: '65001'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Persist current code page: 'True'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper] Process started with process id 26552, waiting for process exit.
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper] Finished process 26552 with exit code 0, and elapsed time 00:00:00.0216199.
+[2025-08-10 17:36:08Z INFO StepsRunner] Successfully returned to code page 65001 (UTF8)
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:36:08Z INFO ExecutionContext] Write event payload to C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\_github_workflow\event.json
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:36:08Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IFileCommandExtension'
+[2025-08-10 17:36:08Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command set-env
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command set-output
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command save-state
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command add-path
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command add-mask
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command add-matcher
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command remove-matcher
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command warning
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command error
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command notice
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command debug
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command group
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command endgroup
+[2025-08-10 17:36:08Z INFO ActionCommandManager] Register action command extension for command echo
+[2025-08-10 17:36:08Z INFO ScriptHandler] Which2: 'pwsh'
+[2025-08-10 17:36:08Z INFO ScriptHandler] pwsh: command not found. Make sure 'pwsh' is installed and its location included in the 'Path' environment variable.
+[2025-08-10 17:36:08Z INFO ScriptHandler] Defaulting to powershell
+[2025-08-10 17:36:08Z INFO ScriptHandler] Which2: 'powershell'
+[2025-08-10 17:36:08Z INFO ScriptHandler] Location: 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.EXE'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:08Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:36:08Z INFO ScriptHandler] Which2: 'pwsh'
+[2025-08-10 17:36:08Z INFO ScriptHandler] pwsh: command not found. Make sure 'pwsh' is installed and its location included in the 'Path' environment variable.
+[2025-08-10 17:36:08Z INFO ScriptHandler] Defaulting to powershell
+[2025-08-10 17:36:08Z INFO ScriptHandler] Which2: 'powershell'
+[2025-08-10 17:36:08Z INFO ScriptHandler] Location: 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.EXE'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper] Starting process:
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   File name: 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.EXE'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Arguments: '-command ". 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\d0b9944a-616b-4d79-bf83-12899cd803ee.ps1'"'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\online-boutique-thesis\online-boutique-thesis'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Persist current code page: 'True'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2025-08-10 17:36:08Z INFO ProcessInvokerWrapper] Process started with process id 24312, waiting for process exit.
+[2025-08-10 17:36:08Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:09Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2025-08-10 17:36:09Z INFO JobServerQueue] Got a step log file to send to results service.
+[2025-08-10 17:36:09Z INFO JobServerQueue] Starting upload of step log file to results service ResultsLog, C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag\blocks\e1bdef5f-2345-4ba7-81b3-c252c2b24893_984492a3-918f-4162-bb46-e283cfbf83c0.1
+[2025-08-10 17:36:09Z INFO JobServerQueue] Tried to upload 1 file(s) to results, success rate: 1/1.
+[2025-08-10 17:36:11Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:12Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:12Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:12Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:13Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:13Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:17Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:17Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:18Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:19Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:19Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:20Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:20Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:20Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:20Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:21Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:21Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:21Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:21Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:22Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:22Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:22Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:22Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:22Z INFO JobServerQueue] Stop aggressive process web console line queue.
+[2025-08-10 17:36:22Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:22Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:23Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:24Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:24Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:25Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:25Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:26Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:26Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:27Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:27Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:28Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:32Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:32Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:32Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:40Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:41Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:41Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:36:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:42Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:36:52Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:36:52Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:36:52Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:02Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:09Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:37:11Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:37:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:12Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:22Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:22Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:22Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:32Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:32Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:32Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:35Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:37:36Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:37:37Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:37:37Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:37:39Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:37:40Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:37:40Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:37:41Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'f2f361fe-55b7-4a17-9fe5-51d3fee69e3d', success rate: 1/1.
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper] Finished process 24312 with exit code 0, and elapsed time 00:01:32.7833452.
+[2025-08-10 17:37:41Z INFO CreateStepSummaryCommand] Step Summary file (C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\_runner_file_commands\step_summary_a8847411-c401-48a2-84dc-853ed420c2c9) is empty; skipping attachment upload
+[2025-08-10 17:37:41Z INFO StepsRunner] Step result: 
+[2025-08-10 17:37:41Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "powershell",
+  "type": "run",
+  "stage": "Main",
+  "stepId": "f2f361fe-55b7-4a17-9fe5-51d3fee69e3d",
+  "stepContextName": "__run_2",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 93,
+  "startTime": "2025-08-10T17:36:08.2508645Z",
+  "finishTime": "2025-08-10T17:37:41.1035804Z"
+}.
+[2025-08-10 17:37:41Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2025-08-10 17:37:41Z INFO StepsRunner] Current state: job state = ''
+[2025-08-10 17:37:41Z INFO StepsRunner] Processing step: DisplayName='Deploy to Minikube'
+[2025-08-10 17:37:41Z INFO StepsRunner] Evaluating: success()
+[2025-08-10 17:37:41Z INFO StepsRunner] Result: true
+[2025-08-10 17:37:41Z INFO StepsRunner] Starting the step.
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:41Z INFO StepsRunner] Which2: 'chcp'
+[2025-08-10 17:37:41Z INFO StepsRunner] Location: 'C:\Windows\system32\chcp.COM'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper] Starting process:
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   File name: 'C:\Windows\system32\chcp.COM'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Arguments: '65001'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Persist current code page: 'True'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper] Process started with process id 13632, waiting for process exit.
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper] Finished process 13632 with exit code 0, and elapsed time 00:00:00.0250588.
+[2025-08-10 17:37:41Z INFO StepsRunner] Successfully returned to code page 65001 (UTF8)
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:37:41Z INFO ExecutionContext] Write event payload to C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\_github_workflow\event.json
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:37:41Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IFileCommandExtension'
+[2025-08-10 17:37:41Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command set-env
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command set-output
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command save-state
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command add-path
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command add-mask
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command add-matcher
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command remove-matcher
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command warning
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command error
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command notice
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command debug
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command group
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command endgroup
+[2025-08-10 17:37:41Z INFO ActionCommandManager] Register action command extension for command echo
+[2025-08-10 17:37:41Z INFO ScriptHandler] Which2: 'pwsh'
+[2025-08-10 17:37:41Z INFO ScriptHandler] pwsh: command not found. Make sure 'pwsh' is installed and its location included in the 'Path' environment variable.
+[2025-08-10 17:37:41Z INFO ScriptHandler] Defaulting to powershell
+[2025-08-10 17:37:41Z INFO ScriptHandler] Which2: 'powershell'
+[2025-08-10 17:37:41Z INFO ScriptHandler] Location: 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.EXE'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:41Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:37:41Z INFO ScriptHandler] Which2: 'pwsh'
+[2025-08-10 17:37:41Z INFO ScriptHandler] pwsh: command not found. Make sure 'pwsh' is installed and its location included in the 'Path' environment variable.
+[2025-08-10 17:37:41Z INFO ScriptHandler] Defaulting to powershell
+[2025-08-10 17:37:41Z INFO ScriptHandler] Which2: 'powershell'
+[2025-08-10 17:37:41Z INFO ScriptHandler] Location: 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.EXE'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper] Starting process:
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   File name: 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.EXE'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Arguments: '-command ". 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\3431901f-433a-4239-916f-6d14e526ea8c.ps1'"'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\online-boutique-thesis\online-boutique-thesis'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Persist current code page: 'True'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2025-08-10 17:37:41Z INFO ProcessInvokerWrapper] Process started with process id 47968, waiting for process exit.
+[2025-08-10 17:37:41Z INFO JobServerQueue] Got a step log file to send to results service.
+[2025-08-10 17:37:41Z INFO JobServerQueue] Starting upload of step log file to results service ResultsLog, C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag\blocks\e1bdef5f-2345-4ba7-81b3-c252c2b24893_f2f361fe-55b7-4a17-9fe5-51d3fee69e3d.1
+[2025-08-10 17:37:41Z INFO JobServerQueue] Try to append 1 batches web console lines for record '872f17c7-1a10-4f16-9bf5-95e0649362a7', success rate: 1/1.
+[2025-08-10 17:37:41Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper] Finished process 47968 with exit code 0, and elapsed time 00:00:00.8525745.
+[2025-08-10 17:37:42Z INFO CreateStepSummaryCommand] Step Summary file (C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\_runner_file_commands\step_summary_e7dc8212-abc6-4bfc-a45f-82bd20c116ff) is empty; skipping attachment upload
+[2025-08-10 17:37:42Z INFO StepsRunner] Step result: 
+[2025-08-10 17:37:42Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "powershell",
+  "type": "run",
+  "stage": "Main",
+  "stepId": "872f17c7-1a10-4f16-9bf5-95e0649362a7",
+  "stepContextName": "__run_3",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 1,
+  "startTime": "2025-08-10T17:37:41.1048436Z",
+  "finishTime": "2025-08-10T17:37:42.0298622Z"
+}.
+[2025-08-10 17:37:42Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2025-08-10 17:37:42Z INFO StepsRunner] Current state: job state = ''
+[2025-08-10 17:37:42Z INFO StepsRunner] Processing step: DisplayName='Post Check out code'
+[2025-08-10 17:37:42Z INFO StepsRunner] Evaluating: always()
+[2025-08-10 17:37:42Z INFO StepsRunner] Result: true
+[2025-08-10 17:37:42Z INFO StepsRunner] Starting the step.
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:42Z INFO StepsRunner] Which2: 'chcp'
+[2025-08-10 17:37:42Z INFO StepsRunner] Location: 'C:\Windows\system32\chcp.COM'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper] Starting process:
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   File name: 'C:\Windows\system32\chcp.COM'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Arguments: '65001'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Persist current code page: 'True'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper] Process started with process id 40684, waiting for process exit.
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper] Finished process 40684 with exit code 0, and elapsed time 00:00:00.0248842.
+[2025-08-10 17:37:42Z INFO StepsRunner] Successfully returned to code page 65001 (UTF8)
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Actions': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_actions'
+[2025-08-10 17:37:42Z INFO ActionManager] Load action that reference repository from 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_actions\actions\checkout\v4'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Actions': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_actions'
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Loaded action.yml file: {
+  "name": "Checkout",
+  "description": "Checkout a Git repository at a particular version",
+  "inputs": {
+    "type": 2,
+    "map": [
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 4,
+          "col": 3,
+          "lit": "repository"
+        },
+        "value": {
+          "type": 3,
+          "file": 2,
+          "line": 6,
+          "col": 14,
+          "expr": "github.repository"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 7,
+          "col": 3,
+          "lit": "ref"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 12,
+          "col": 3,
+          "lit": "token"
+        },
+        "value": {
+          "type": 3,
+          "file": 2,
+          "line": 24,
+          "col": 14,
+          "expr": "github.token"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 25,
+          "col": 3,
+          "lit": "ssh-key"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 37,
+          "col": 3,
+          "lit": "ssh-known-hosts"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 42,
+          "col": 3,
+          "lit": "ssh-strict"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 47,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 48,
+          "col": 3,
+          "lit": "ssh-user"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 51,
+          "col": 14,
+          "lit": "git"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 52,
+          "col": 3,
+          "lit": "persist-credentials"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 54,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 55,
+          "col": 3,
+          "lit": "path"
+        },
+        "value": ""
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 57,
+          "col": 3,
+          "lit": "clean"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 59,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 60,
+          "col": 3,
+          "lit": "filter"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 64,
+          "col": 14,
+          "lit": ""
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 65,
+          "col": 3,
+          "lit": "sparse-checkout"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 69,
+          "col": 14,
+          "lit": ""
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 70,
+          "col": 3,
+          "lit": "sparse-checkout-cone-mode"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 73,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 74,
+          "col": 3,
+          "lit": "fetch-depth"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 76,
+          "col": 14,
+          "lit": "1"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 77,
+          "col": 3,
+          "lit": "fetch-tags"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 79,
+          "col": 14,
+          "lit": "false"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 80,
+          "col": 3,
+          "lit": "show-progress"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 82,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 83,
+          "col": 3,
+          "lit": "lfs"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 85,
+          "col": 14,
+          "lit": "false"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 86,
+          "col": 3,
+          "lit": "submodules"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 94,
+          "col": 14,
+          "lit": "false"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 95,
+          "col": 3,
+          "lit": "set-safe-directory"
+        },
+        "value": {
+          "type": 0,
+          "file": 2,
+          "line": 97,
+          "col": 14,
+          "lit": "true"
+        }
+      },
+      {
+        "key": {
+          "type": 0,
+          "file": 2,
+          "line": 98,
+          "col": 3,
+          "lit": "github-server-url"
+        },
+        "value": ""
+      }
+    ]
+  },
+  "execution": {
+    "executionType": "nodeJS",
+    "hasPre": false,
+    "hasPost": true,
+    "script": "dist/index.js",
+    "pre": null,
+    "post": "dist/index.js",
+    "nodeVersion": "node20",
+    "cleanupCondition": "always()",
+    "initCondition": "always()"
+  },
+  "deprecated": null
+}
+[2025-08-10 17:37:42Z INFO ActionManager] Action pre node.js file: N/A.
+[2025-08-10 17:37:42Z INFO ActionManager] Action node.js file: dist/index.js.
+[2025-08-10 17:37:42Z INFO ActionManager] Action post node.js file: dist/index.js.
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:37:42Z INFO ExecutionContext] Write event payload to C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\_github_workflow\event.json
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Temp': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp'
+[2025-08-10 17:37:42Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IFileCommandExtension'
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'repository': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 6,
+  "col": 14,
+  "lit": "fatihreha/online-boutique-thesis"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'ref': default value evaluate result: ""
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'token': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 24,
+  "col": 14,
+  "lit": "***"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'ssh-key': default value evaluate result: ""
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'ssh-known-hosts': default value evaluate result: ""
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'ssh-strict': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 47,
+  "col": 14,
+  "lit": "true"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'ssh-user': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 51,
+  "col": 14,
+  "lit": "git"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'persist-credentials': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 54,
+  "col": 14,
+  "lit": "true"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'path': default value evaluate result: ""
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'clean': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 59,
+  "col": 14,
+  "lit": "true"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'filter': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 64,
+  "col": 14,
+  "lit": ""
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'sparse-checkout': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 69,
+  "col": 14,
+  "lit": ""
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'sparse-checkout-cone-mode': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 73,
+  "col": 14,
+  "lit": "true"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'fetch-depth': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 76,
+  "col": 14,
+  "lit": "1"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'fetch-tags': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 79,
+  "col": 14,
+  "lit": "false"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'show-progress': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 82,
+  "col": 14,
+  "lit": "true"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'lfs': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 85,
+  "col": 14,
+  "lit": "false"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'submodules': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 94,
+  "col": 14,
+  "lit": "false"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'set-safe-directory': default value evaluate result: {
+  "type": 0,
+  "file": 2,
+  "line": 97,
+  "col": 14,
+  "lit": "true"
+}
+[2025-08-10 17:37:42Z INFO ActionManifestManager] Input 'github-server-url': default value evaluate result: ""
+[2025-08-10 17:37:42Z INFO ExtensionManager] Getting extensions for interface: 'GitHub.Runner.Worker.IActionCommandExtension'
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command internal-set-repo-path
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command set-env
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command set-output
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command save-state
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command add-path
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command add-mask
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command add-matcher
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command remove-matcher
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command warning
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command error
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command notice
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command debug
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command group
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command endgroup
+[2025-08-10 17:37:42Z INFO ActionCommandManager] Register action command extension for command echo
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Externals': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\externals'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper] Starting process:
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\externals\node20\bin\node.exe'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Arguments: '"C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_actions\actions\checkout\v4\dist/index.js"'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\online-boutique-thesis\online-boutique-thesis'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Encoding web name: utf-8 ; code page: '65001'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Persist current code page: 'True'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:42Z INFO HostContext] Well known directory 'Work': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work'
+[2025-08-10 17:37:42Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'c29fae55-4f44-48f7-b15b-66fedb419082', success rate: 1/1.
+[2025-08-10 17:37:42Z INFO ProcessInvokerWrapper] Process started with process id 47620, waiting for process exit.
+[2025-08-10 17:37:42Z INFO JobServerQueue] Tried to upload 1 file(s) to results, success rate: 1/1.
+[2025-08-10 17:37:42Z INFO JobServerQueue] Try to upload 1 log files or attachments, success rate: 1/1.
+[2025-08-10 17:37:42Z INFO AddMaskCommandExtension] Add new secret mask with length of 32
+[2025-08-10 17:37:43Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'c29fae55-4f44-48f7-b15b-66fedb419082', success rate: 1/1.
+[2025-08-10 17:37:43Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'c29fae55-4f44-48f7-b15b-66fedb419082', success rate: 1/1.
+[2025-08-10 17:37:43Z INFO JobServerQueue] Got a step log file to send to results service.
+[2025-08-10 17:37:43Z INFO JobServerQueue] Starting upload of step log file to results service ResultsLog, C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag\blocks\e1bdef5f-2345-4ba7-81b3-c252c2b24893_872f17c7-1a10-4f16-9bf5-95e0649362a7.1
+[2025-08-10 17:37:44Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:37:44Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-08-10 17:37:44Z INFO ProcessInvokerWrapper] Finished process 47620 with exit code 0, and elapsed time 00:00:02.3413770.
+[2025-08-10 17:37:44Z INFO CreateStepSummaryCommand] Step Summary file (C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp\_runner_file_commands\step_summary_fd647b47-99f4-400d-84fb-8e3416b62727) is empty; skipping attachment upload
+[2025-08-10 17:37:44Z INFO StepsRunner] Step result: 
+[2025-08-10 17:37:44Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "actions/checkout",
+  "ref": "v4",
+  "type": "node20",
+  "stage": "Post",
+  "stepId": "c29fae55-4f44-48f7-b15b-66fedb419082",
+  "result": "succeeded",
+  "errorMessages": [
+    "The process 'C:\\Program Files\\Git\\cmd\\git.exe' failed with exit code 128"
+  ],
+  "executionTimeInSeconds": 3,
+  "startTime": "2025-08-10T17:37:42.0313103Z",
+  "finishTime": "2025-08-10T17:37:44.4180613Z"
+}.
+[2025-08-10 17:37:44Z INFO StepsRunner] No need for updating job result with current step result 'Succeeded'.
+[2025-08-10 17:37:44Z INFO StepsRunner] Current state: job state = ''
+[2025-08-10 17:37:44Z INFO JobRunner] Finalize job.
+[2025-08-10 17:37:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:44Z INFO HostContext] Well known directory 'Diag': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag'
+[2025-08-10 17:37:44Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:44Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:44Z INFO HostContext] Well known directory 'Diag': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag'
+[2025-08-10 17:37:44Z INFO JobExtension] Initialize Env context
+[2025-08-10 17:37:44Z INFO JobExtension] Initialize steps context
+[2025-08-10 17:37:44Z INFO JobExtension] Total accessible running process: 356.
+[2025-08-10 17:37:44Z INFO JobExtension] Inspecting process environment variables. PID: 19628 (opera)
+[2025-08-10 17:37:44Z INFO JobExtension] Inspecting process environment variables. PID: 20296 (opera)
+[2025-08-10 17:37:44Z INFO JobExtension] Inspecting process environment variables. PID: 38904 (msedgewebview2)
+[2025-08-10 17:37:44Z INFO JobExtension] Inspecting process environment variables. PID: 12520 (opera)
+[2025-08-10 17:37:44Z INFO JobExtension] Inspecting process environment variables. PID: 47564 (dllhost)
+[2025-08-10 17:37:44Z INFO JobExtension] Inspecting process environment variables. PID: 45280 (docker)
+[2025-08-10 17:37:44Z INFO JobExtension] Inspecting process environment variables. PID: 46720 (conhost)
+[2025-08-10 17:37:44Z INFO ExecutionContext] Publish step telemetry for current step {
+  "action": "complete_job",
+  "type": "runner",
+  "stage": "Post",
+  "stepId": "b442c5d3-bd12-4208-97c5-8dc19dbe6453",
+  "result": "succeeded",
+  "errorMessages": [],
+  "executionTimeInSeconds": 1,
+  "startTime": "2025-08-10T17:37:44.4243683Z",
+  "finishTime": "2025-08-10T17:37:44.477846Z"
+}.
+[2025-08-10 17:37:44Z INFO JobRunner] Job result after all job steps finish: Succeeded
+[2025-08-10 17:37:44Z INFO JobRunner] Completing the job execution context.
+[2025-08-10 17:37:44Z INFO JobRunner] Shutting down the job server queue.
+[2025-08-10 17:37:44Z INFO JobServerQueue] Fire signal to shutdown all queues.
+[2025-08-10 17:37:44Z INFO JobServerQueue] Tried to upload 1 file(s) to results, success rate: 1/1.
+[2025-08-10 17:37:45Z INFO JobServerQueue] All queue process task stopped.
+[2025-08-10 17:37:45Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'c29fae55-4f44-48f7-b15b-66fedb419082', success rate: 1/1.
+[2025-08-10 17:37:45Z INFO JobServerQueue] Try to append 1 batches web console lines for record 'b442c5d3-bd12-4208-97c5-8dc19dbe6453', success rate: 1/1.
+[2025-08-10 17:37:45Z INFO JobServerQueue] Web console line queue drained.
+[2025-08-10 17:37:45Z INFO JobServerQueue] Uploading 3 files in one shot.
+[2025-08-10 17:37:45Z INFO JobServerQueue] Try to upload 3 log files or attachments, success rate: 3/3.
+[2025-08-10 17:37:45Z INFO JobServerQueue] File upload queue drained.
+[2025-08-10 17:37:45Z INFO JobServerQueue] Starting results-based upload queue...
+[2025-08-10 17:37:45Z INFO JobServerQueue] Uploading 3 file(s) in one shot through results service.
+[2025-08-10 17:37:45Z INFO JobServerQueue] Got a step log file to send to results service.
+[2025-08-10 17:37:45Z INFO JobServerQueue] Starting upload of step log file to results service ResultsLog, C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag\blocks\e1bdef5f-2345-4ba7-81b3-c252c2b24893_c29fae55-4f44-48f7-b15b-66fedb419082.1
+[2025-08-10 17:37:46Z INFO JobServerQueue] Got a step log file to send to results service.
+[2025-08-10 17:37:46Z INFO JobServerQueue] Starting upload of step log file to results service ResultsLog, C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag\blocks\e1bdef5f-2345-4ba7-81b3-c252c2b24893_b442c5d3-bd12-4208-97c5-8dc19dbe6453.1
+[2025-08-10 17:37:46Z INFO JobServerQueue] Got a job log file to send to results service.
+[2025-08-10 17:37:46Z INFO JobServerQueue] Starting upload of job log file to results service ResultsLog, C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag\blocks\e1bdef5f-2345-4ba7-81b3-c252c2b24893_a827f5f6-6166-5837-a0f8-0ddb2147b989.1
+[2025-08-10 17:37:47Z INFO JobServerQueue] Tried to upload 3 file(s) to results, success rate: 3/3.
+[2025-08-10 17:37:47Z INFO JobServerQueue] Results upload queue drained.
+[2025-08-10 17:37:47Z INFO JobServerQueue] Timeline update queue drained.
+[2025-08-10 17:37:47Z INFO JobServerQueue] Disposing job server ...
+[2025-08-10 17:37:47Z INFO JobServerQueue] Disposing results server ...
+[2025-08-10 17:37:47Z INFO JobServerQueue] All queue process tasks have been stopped, and all queues are drained.
+[2025-08-10 17:37:47Z INFO TempDirectoryManager] Cleaning runner temp folder: C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_work\_temp
+[2025-08-10 17:37:47Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:37:47Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:37:47Z INFO HostContext] Well known directory 'Diag': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag'
+[2025-08-10 17:37:47Z INFO HostContext] Well known config file 'Telemetry': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\_diag\.telemetry'
+[2025-08-10 17:37:47Z INFO JobRunner] Raising job completed against run service
+[2025-08-10 17:37:47Z INFO Worker] Job completed.

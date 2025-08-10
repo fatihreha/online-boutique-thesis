@@ -53,8 +53,8 @@ func init() {
 }
 
 func main() {
-	log.Printf("GHA TEST: shipping service called with context")
-	
+	log.Printf("GHActions TEST: shipping service called with context")
+
 	if os.Getenv("DISABLE_TRACING") == "" {
 		log.Info("Tracing enabled, but temporarily unavailable")
 		log.Info("See https://github.com/GoogleCloudPlatform/microservices-demo/issues/422 for more info.")
