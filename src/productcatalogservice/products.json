@@ -106,7 +106,27 @@
                 "units": 8,
                 "nanos": 990000000
             },
-            "categories": ["kitchen"]
+            "categories": ["kitchen", "best-value"]
         }
     ]
 }
+
+## 🎯 Senaryo 3 - Test 3: GitLab CI/CD (Best Value Badge)
+
+### 📋 Backend Değişikliği - products.json
+
+<mcfile name="products.json" path="c:\Users\Fatih\Desktop\microservices-demo\src\productcatalogservice\products.json"></mcfile> dosyasında "Modern Ceramic Mug" ürününe "best-value" etiketi ekleyelim:
+```json
+        {
+            "id": "6E92ZMYYFZ",
+            "name": "Modern Ceramic Mug",
+            "description": "A simple mug with a mustard-colored interior, perfect for your morning coffee.",
+            "picture": "/static/img/products/mug.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 8,
+                "nanos": 990000000
+            },
+            "categories": ["kitchen", "best-value"]
+        }
+```

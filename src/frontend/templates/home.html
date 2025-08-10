@@ -58,6 +58,9 @@
               {{if (listContains .Item.Categories "exclusive")}}
                 <span class="badge badge-dark">Exclusive!!</span>
               {{end}}
+              {{if (listContains .Item.Categories "best-value")}}
+                <span class="badge badge-success">Best Value!</span>
+              {{end}}
               {{if (listContains .Item.Categories "new-arrival")}}
                 <span class="badge badge-info">New Arrival!</span>
               {{end}}
