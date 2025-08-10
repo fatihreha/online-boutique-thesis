@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "fatihreha/online-boutique-thesis",
+  "pipelineDirectory": "online-boutique-thesis",
+  "workspaceDirectory": "online-boutique-thesis\\online-boutique-thesis",
+  "repositories": {
+    "fatihreha/online-boutique-thesis": {
+      "repositoryPath": "online-boutique-thesis\\online-boutique-thesis",
+      "lastRunOn": "08/05/2025 17:43:07 +03:00"
+    }
+  },
+  "lastRunOn": "08/05/2025 17:52:43 +03:00"
+}

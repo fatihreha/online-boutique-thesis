@@ -98,8 +98,8 @@
         },
         {
             "id": "6E92ZMYYFZ",
-            "name": "Mug",
-            "description": "A simple mug with a mustard interior.",
+            "name": "Modern Ceramic Mug",
+            "description": "A simple mug with a mustard-colored interior, perfect for your morning coffee.",
             "picture": "/static/img/products/mug.jpg",
             "priceUsd": {
                 "currencyCode": "USD",
