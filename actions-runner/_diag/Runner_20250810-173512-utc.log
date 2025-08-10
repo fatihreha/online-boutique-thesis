@@ -1,0 +1,166 @@
+[2025-08-10 17:35:12Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.runner'
+[2025-08-10 17:35:12Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-08-10 17:35:12Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2025-08-10 17:35:12Z INFO Listener] Version: 2.327.1
+[2025-08-10 17:35:12Z INFO Listener] Commit: 9513afd82fbc900d13362cdd4fcdab0538f5124e
+[2025-08-10 17:35:12Z INFO Listener] Culture: tr-TR
+[2025-08-10 17:35:12Z INFO Listener] UI Culture: tr-TR
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO Listener] Validating directory permissions for: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO CommandLineParser] Parse
+[2025-08-10 17:35:12Z INFO CommandLineParser] Parsing 1 args
+[2025-08-10 17:35:12Z INFO CommandLineParser] parsing argument
+[2025-08-10 17:35:12Z INFO CommandLineParser] HasArgs: False
+[2025-08-10 17:35:12Z INFO CommandLineParser] Adding Command: run
+[2025-08-10 17:35:12Z INFO Listener] Arguments parsed
+[2025-08-10 17:35:12Z INFO Runner] ExecuteCommand
+[2025-08-10 17:35:12Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin\Runner.Listener.dll
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO ConfigurationStore] binPath: C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO ConfigurationStore] RootFolder: C:\Users\Fatih\Desktop\microservices-demo\actions-runner
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO HostContext] Well known config file 'Runner': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.runner'
+[2025-08-10 17:35:12Z INFO ConfigurationStore] ConfigFilePath: C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.runner
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.runner_migrated'
+[2025-08-10 17:35:12Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.runner_migrated
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials'
+[2025-08-10 17:35:12Z INFO ConfigurationStore] CredFilePath: C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials_migrated'
+[2025-08-10 17:35:12Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials_migrated
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO HostContext] Well known config file 'Service': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.service'
+[2025-08-10 17:35:12Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.service
+[2025-08-10 17:35:12Z INFO CommandSettings] Flag 'help': 'False'
+[2025-08-10 17:35:12Z INFO CommandSettings] Flag 'version': 'False'
+[2025-08-10 17:35:12Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-08-10 17:35:12Z INFO CommandSettings] Flag 'check': 'False'
+[2025-08-10 17:35:12Z INFO CommandSettings] Command 'configure': 'False'
+[2025-08-10 17:35:12Z INFO CommandSettings] Command 'remove': 'False'
+[2025-08-10 17:35:12Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-08-10 17:35:12Z INFO ConfigurationManager] LoadSettings
+[2025-08-10 17:35:12Z INFO ConfigurationStore] IsConfigured()
+[2025-08-10 17:35:12Z INFO ConfigurationStore] IsConfigured: True
+[2025-08-10 17:35:12Z INFO ConfigurationManager] Is configured: True
+[2025-08-10 17:35:12Z INFO ConfigurationStore] Read setting file: 409 chars
+[2025-08-10 17:35:12Z INFO ConfigurationManager] Settings Loaded
+[2025-08-10 17:35:12Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-08-10 17:35:12Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-08-10 17:35:12Z INFO CommandSettings] Command 'run': 'True'
+[2025-08-10 17:35:12Z INFO ConfigurationStore] IsConfigured()
+[2025-08-10 17:35:12Z INFO ConfigurationStore] IsConfigured: True
+[2025-08-10 17:35:12Z INFO ConfigurationManager] Is configured: True
+[2025-08-10 17:35:12Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-08-10 17:35:12Z INFO Runner] Set runner startup type - Manual
+[2025-08-10 17:35:12Z INFO CommandSettings] Flag 'once': 'False'
+[2025-08-10 17:35:12Z INFO CommandSettings] Flag 'once': 'False'
+[2025-08-10 17:35:12Z INFO Runner] RunAsync
+[2025-08-10 17:35:12Z INFO ConfigurationManager] LoadMigratedSettings
+[2025-08-10 17:35:12Z INFO ConfigurationStore] IsMigratedConfigured()
+[2025-08-10 17:35:12Z INFO ConfigurationStore] IsMigratedConfigured: False
+[2025-08-10 17:35:12Z INFO Runner] Failed to load migrated settings: No migrated configuration found.
+[2025-08-10 17:35:12Z INFO Runner] Falling back to original .runner settings
+[2025-08-10 17:35:12Z INFO Runner] Using BrokerMessageListener
+[2025-08-10 17:35:12Z INFO BrokerMessageListener] Using provided settings
+[2025-08-10 17:35:12Z INFO BrokerMessageListener] {
+  "AgentId": 2,
+  "AgentName": "FatihRehaDisci",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus5.actions.githubusercontent.com/dPW3scQmAHGhqq2nJ5EQoFPRWik9NWz1UwVhNbSFUcw1GfI41T/",
+  "GitHubUrl": "https://github.com/fatihreha/online-boutique-thesis",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2025-08-10 17:35:12Z INFO BrokerMessageListener] Loading Credentials
+[2025-08-10 17:35:12Z INFO ConfigurationStore] HasCredentials()
+[2025-08-10 17:35:12Z INFO ConfigurationStore] stored True
+[2025-08-10 17:35:12Z INFO CredentialManager] GetCredentialProvider
+[2025-08-10 17:35:12Z INFO CredentialManager] Creating type OAuth
+[2025-08-10 17:35:12Z INFO CredentialManager] Creating credential type: OAuth
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:12Z INFO HostContext] Well known directory 'Root': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner'
+[2025-08-10 17:35:12Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials_rsaparams'
+[2025-08-10 17:35:12Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials_rsaparams
+[2025-08-10 17:35:12Z INFO BrokerMessageListener] Attempt to create session.
+[2025-08-10 17:35:12Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2025-08-10 17:35:12Z INFO ConfigurationStore] HasCredentials()
+[2025-08-10 17:35:12Z INFO ConfigurationStore] stored True
+[2025-08-10 17:35:12Z INFO CredentialManager] GetCredentialProvider
+[2025-08-10 17:35:12Z INFO CredentialManager] Creating type OAuth
+[2025-08-10 17:35:12Z INFO CredentialManager] Creating credential type: OAuth
+[2025-08-10 17:35:12Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials_rsaparams
+[2025-08-10 17:35:12Z INFO BrokerMessageListener] VssConnection created
+[2025-08-10 17:35:12Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2025-08-10 17:35:12Z INFO RunnerServer] EstablishVssConnection
+[2025-08-10 17:35:13Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-08-10 17:35:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-10 17:35:13Z INFO RunnerServer] EstablishVssConnection
+[2025-08-10 17:35:13Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-08-10 17:35:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-10 17:35:13Z INFO RunnerServer] EstablishVssConnection
+[2025-08-10 17:35:13Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-08-10 17:35:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-08-10 17:35:13Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-10 17:35:13Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-10 17:35:13Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-08-10 17:35:14Z INFO BrokerMessageListener] VssConnection created
+[2025-08-10 17:35:14Z INFO Terminal] WRITE LINE: 
+[2025-08-10 17:35:14Z INFO Terminal] WRITE LINE: 
+[2025-08-10 17:35:14Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials_rsaparams
+[2025-08-10 17:35:14Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials_rsaparams
+[2025-08-10 17:35:14Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-10 17:35:15Z INFO BrokerMessageListener] Session created.
+[2025-08-10 17:35:15Z INFO Terminal] WRITE LINE: Current runner version: '2.327.1'
+[2025-08-10 17:35:15Z INFO Terminal] WRITE LINE: 2025-08-10 17:35:15Z: Listening for Jobs
+[2025-08-10 17:35:15Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-08-10 17:35:17Z INFO ConfigurationStore] HasCredentials()
+[2025-08-10 17:35:17Z INFO ConfigurationStore] stored True
+[2025-08-10 17:35:17Z INFO CredentialManager] GetCredentialProvider
+[2025-08-10 17:35:17Z INFO CredentialManager] Creating type OAuth
+[2025-08-10 17:35:17Z INFO CredentialManager] Creating credential type: OAuth
+[2025-08-10 17:35:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials_rsaparams
+[2025-08-10 17:35:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials_rsaparams
+[2025-08-10 17:35:17Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\Fatih\Desktop\microservices-demo\actions-runner\.credentials_rsaparams
+[2025-08-10 17:35:17Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-08-10 17:35:18Z INFO JobDispatcher] Job request 0 for plan e1bdef5f-2345-4ba7-81b3-c252c2b24893 job a827f5f6-6166-5837-a0f8-0ddb2147b989 received.
+[2025-08-10 17:35:18Z INFO JobDispatcher] Pull OrchestrationId e1bdef5f-2345-4ba7-81b3-c252c2b24893.build-and-deploy.__default from JWT claims
+[2025-08-10 17:35:18Z INFO BrokerMessageListener] Received job status event. JobState: Busy
+[2025-08-10 17:35:18Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2025-08-10 17:35:18Z INFO Terminal] WRITE LINE: 2025-08-10 17:35:18Z: Running job: build-and-deploy
+[2025-08-10 17:35:18Z INFO JobDispatcher] Start renew job request 0 for job a827f5f6-6166-5837-a0f8-0ddb2147b989.
+[2025-08-10 17:35:19Z INFO JobDispatcher] Successfully renew job a827f5f6-6166-5837-a0f8-0ddb2147b989, job is valid till 10.08.2025 17:45:22
+[2025-08-10 17:35:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper] Starting process:
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin\Runner.Worker.exe'
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2424 2436'
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\Fatih\Desktop\microservices-demo\actions-runner\bin'
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-08-10 17:35:19Z INFO ProcessInvokerWrapper] Process started with process id 45692, waiting for process exit.
+[2025-08-10 17:35:19Z INFO JobDispatcher] Send job request message to worker for job a827f5f6-6166-5837-a0f8-0ddb2147b989.
+[2025-08-10 17:35:19Z INFO ProcessChannel] Sending message of length 20296, with hash '4e800b4cc61eeecdcbdfacbbf2b0e686c40f563c13c1e33529f472b10fe37ac7'
+[2025-08-10 17:35:19Z INFO JobNotification] Entering JobStarted Notification
+[2025-08-10 17:35:19Z INFO JobNotification] Entering StartMonitor
