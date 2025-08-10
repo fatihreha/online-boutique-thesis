@@ -1,34 +1,28 @@
 name: Build and Deploy to Minikube
 
-# Bu otomasyon ne zaman çalışacak? "main" dalına bir kod gönderildiğinde.
 on:
   push:
     branches: [ "main" ]
 
 jobs:
   build-and-deploy:
-    # Bu iş nerede çalışacak? Bizim kurduğumuz çalıştırıcıda.
     runs-on: self-hosted
 
     steps:
-    # 1. Adım: Kodları GitHub'dan bilgisayarımıza indir.
-    - name: Check out code
-      uses: actions/checkout@v4
+      - name: Check out code
+        uses: actions/checkout@v4
 
-    # 2. Adım: Minikube'un Docker ortamını kullanmak için gerekli ayarları yap.
-    # Bu "sihirli" adım, Docker imajlarını doğrudan Minikube'un içine oluşturmamızı sağlar.
-    - name: Set up Minikube Docker environment
-      run: |
-        minikube -p minikube docker-env --shell powershell | Invoke-Expression
+      - name: Set up Minikube Docker environment
+        shell: powershell
+        run: |
+          minikube -p minikube docker-env --shell powershell | Invoke-Expression
 
-    # 3. Adım: productcatalogservice'in Docker imajını oluştur.
-    # -t parametresi ile imaja bir isim (tag) veriyoruz.
-    - name: Build Docker image for productcatalogservice
-      run: |
-        docker build -t productcatalogservice:latest ./src/productcatalogservice
-
-    # 4. Adım: Kubernetes'teki dağıtımı yeni imajla güncelle.
-    # kubectl komutu ile çalışan deployment'a "imajını bu yenisiyle değiştir" diyoruz.
-    - name: Deploy to Minikube
-      run: |
-        kubectl set image deployment/productcatalogservice server=productcatalogservice:latest
+      - name: Build Docker image for shippingservice
+        shell: powershell
+        run: |
+          docker build -t shippingservice:latest ./src/shippingservice
+          
+      - name: Deploy to Minikube
+        shell: powershell
+        run: |
+          kubectl set image deployment/shippingservice server=shippingservice:latest

@@ -14,8 +14,8 @@ build_image:
   script:
     - echo "Setting up Minikube Docker environment..."
     - minikube -p minikube docker-env --shell powershell | Invoke-Expression
-    - echo "Building Docker image for productcatalogservice..."
-    - docker build -t productcatalogservice:latest ./src/productcatalogservice
+    - echo "Building Docker image for shippingservice..."
+    - docker build -t shippingservice:latest ./src/shippingservice
 
 deploy_image:
   stage: deploy
@@ -24,4 +24,4 @@ deploy_image:
     - docker
   script:
     - echo "Deploying to Minikube..."
-    - kubectl set image deployment/productcatalogservice server=productcatalogservice:latest
+    - kubectl set image deployment/shippingservice server=shippingservice:latest
