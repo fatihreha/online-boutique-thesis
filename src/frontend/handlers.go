@@ -50,6 +50,7 @@ var (
 				Funcs(template.FuncMap{
 			"renderMoney":        renderMoney,
 			"renderCurrencyLogo": renderCurrencyLogo,
+			"listContains":       listContains,
 		}).ParseGlob("templates/*.html"))
 	plat platformDetails
 )
@@ -626,6 +627,16 @@ func renderCurrencyLogo(currencyCode string) string {
 }
 
 func stringinSlice(slice []string, val string) bool {
+	for _, item := range slice {
+		if item == val {
+			return true
+		}
+	}
+	return false
+}
+
+// listContains checks if a slice contains a specific string value
+func listContains(slice []string, val string) bool {
 	for _, item := range slice {
 		if item == val {
 			return true
